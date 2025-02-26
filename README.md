@@ -1,5 +1,6 @@
-## Analytics.Max1soft.Pw
-> My newest bio site about my work, with using databases and advanced technology.
+## Analytics
+> My site where i use data from another project
+> and show on site with good prefomance.
 
 ## 🚀 Quick Links
 
